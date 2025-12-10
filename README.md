@@ -12,6 +12,15 @@ This project demonstrates essential techniques for working with NIfTI (Neuroimag
 - Image filtering and morphological operations
 - Batch processing multiple subjects and extracting statistics
 
+## System Requirements
+
+- OS: macOS, Windows, or Linux
+- CPU: Any modern x86_64/ARM64 processor (no GPU required)
+- RAM: 8 GB recommended for smooth visualization of full MRI volumes
+- Disk: ~1 GB free for environment, notebooks, and sample data
+- Python: 3.7+ (3.10+ recommended)
+- Browser: Modern browser if using Jupyter in the browser
+
 ## Project Structure
 
 ```
@@ -27,7 +36,8 @@ This project demonstrates essential techniques for working with NIfTI (Neuroimag
 
 ### Prerequisites
 
-- Python 3.7+
+- Python 3.7+ (download from https://www.python.org/downloads/)
+- Visual Studio Code (download from https://code.visualstudio.com/)
 - Virtual environment (recommended)
 
 ### Create and Activate Virtual Environment
