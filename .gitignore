@@ -40,7 +40,7 @@ wheels/
 .DS_Store
 
 # Data and Output
-datasets/
+
 *.nii
 *.nii.gz
 summary_stats.csv
